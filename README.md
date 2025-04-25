@@ -8,6 +8,5 @@ UNP_PROJECT_BI_WITH_MS_EXCEL_EMPLOYEE_DATA.xlsx:
 5. Salary variations across departments and experience levels can be examined.
 6. Gender representation and age trends can be visualized using charts in Excel.
 7. It's ideal for creating pivot tables and dashboards to support HR decision-making.
-8. MS EXCEL PROJECT FILE: https://docs.google.com/spreadsheets/d/1ZfHKVXho5VHDsk2E7_GoOYi1pRfNdrGG/edit?usp=sharing&ouid=105118377808516401165&rtpof=true&sd=true
-
+8. MS EXCEL PROJECT FILE: https://1drv.ms/x/c/c04ecca8a8b9e2ec/EQbi7WYhn6JLoW-tGXvvxcoB1TewMHiWMhcmwosVQURScg
 
